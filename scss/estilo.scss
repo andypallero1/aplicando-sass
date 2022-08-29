@@ -1,0 +1,35 @@
+$color-principal:rgb(93, 67, 163);
+
+h1{
+    color: $color-principal;
+    font-size: 3em;
+    font-family:'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+nav{
+    text-decoration: none;
+    display: inline-block;
+}
+
+a{
+    font-size: 1rem;
+    color: red;
+}
+body{
+    background-color: black !important;
+}
+
+.footerr{
+    padding: 20px;
+    margin: 10px;
+    border: 2px black;
+}
+
+footer{
+    text-align: center;
+}
+
+h3{
+    color: aqua;
+}

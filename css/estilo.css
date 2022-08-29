@@ -1,0 +1,36 @@
+h1 {
+  color: #5d43a3;
+  font-size: 3rem;
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+
+nav {
+  text-decoration: none;
+  display: inline-block;
+}
+
+a {
+  font-size: 1rem;
+  color: rgb(24, 116, 191);
+  margin: 10px;
+
+}
+
+body {
+  background-color: black;
+}
+
+.footerr {
+  padding: 20px;
+  margin: 10px;
+  border: 2px black;
+}
+
+footer {
+  text-align: center;
+}
+
+h3 {
+  color: aqua;
+}
